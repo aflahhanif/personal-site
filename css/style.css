@@ -1,0 +1,49 @@
+body {
+    font-family: "Space Grotesk", sans-serif;
+}
+
+.custom-font {
+    font-family: "Syne", sans-serif;
+}
+
+.hero {
+    font-weight: 800;
+    padding: 0;
+}
+
+#hero-image-container {
+    margin-top: 0;
+}
+
+.h2-custom {
+    font-family: "Syne", sans-serif;
+    font-weight: 700;
+}
+
+li p {
+    margin-bottom: 5px;
+}
+
+.box-custom {
+    width: 5rem;
+    height: 4.5rem;
+    border-radius: .75rem;
+}
+
+h3 {
+    font-family: "Syne", sans-serif;
+}
+
+h4 {
+    font-family: "Syne", sans-serif;
+    margin-bottom: 0;
+}
+
+.icon-container {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
